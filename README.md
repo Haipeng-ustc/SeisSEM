@@ -2,8 +2,7 @@
 
 This project is for our class project for Computational Seismology at USTC.
 The team members include: Haipeng Li, Hongbo Han, and Wancong Zhao
-
-I'll later keep updating this Repository to implement more features.
+I will continue to update this repository for more features later.
 
 Contact: haipengl@mail.ustc.edu.cn
 
