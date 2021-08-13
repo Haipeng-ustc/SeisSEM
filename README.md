@@ -12,7 +12,7 @@ Contact: haipengl@mail.ustc.edu.cn
 
 #### For regular mesh,
 ```bash
-	run: Case1_SEM_inner_mesh.m
+run: Case1_SEM_inner_mesh.m
 ```
 #### For irregular mesh:
 
